@@ -1,0 +1,75 @@
+#related, #comments, .header, .share, .noprint, .crumbs, #footer, #continue_link, #feedLinks, #navContainer, #webvanta-toolbar, #wv-border-overlay {
+  display:none;
+}
+.kb_type_articlenode {
+  width: 100%;
+  margin: 0;
+  float: none;
+}
+body {
+  color: #000 !important;
+  font-family: Georgia,
+             "New Century Schoolbook",
+             "Nimbus Roman No9 L",
+             serif !important;
+}
+p, li, dl, dt, td {
+  font-size: 10pt !important;
+    font-family: Georgia,
+             "New Century Schoolbook",
+             "Nimbus Roman No9 L",
+             serif !important;
+  color: #000 !important;
+}
+code, pre {
+  font-family:"lucida console", monaco, courier, "courier new", monospace !important;
+  font-size: 9pt !important;
+  color: #000 !important;
+}
+h1 {
+  font-size: 20pt !important;
+}
+h2 {
+  font-size: 16pt !important;
+}
+h3 {
+  font-size: 14pt !important;
+}
+h4 {
+  font-size: 12pt !important;
+}
+#home_wrapper {
+  border: none;
+  padding: 0;
+  width: 100%;
+}
+#content_area {
+  margin: 30px; 
+  padding: 0 0 20px 0;
+}
+html, body {
+  background: none;
+}
+.usage_example {
+  display: block !important;
+}
+
+#wrapper {
+  border:none;
+}
+#content_area {
+  padding-top:0;
+}
+.container {
+  width: 95%;
+}
+.feature-interior-basic, .feature-interior-text {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.column-main {
+  padding-top: 30px;
+}
+
+
+
