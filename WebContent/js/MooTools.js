@@ -1135,7 +1135,7 @@ function sym_Replace(str)
 	str = str.replace(eval("/[\+]/g"), '%2B');
 	
 	return str;
-}function sendToOxagile()
+}function sendToNJPalmIn()
 {
   parent.location='mailto:?subject=' + escape(document.title)+'&body=' + escape(window.location);  
 }
